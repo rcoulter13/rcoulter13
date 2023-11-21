@@ -1,7 +1,6 @@
-- 👋 Hi, I’m Riah @rcoulter13 and I am a second-year graduate student in University of Arizona's HLT program!
-- 👀 I’m interested in Automatic Speech Recognition, POS taggers, tokenizers, machine translation, ML, etc.
-- 🌱 I’m currently learning about medical chatbots, ASR in very noisy environments and signal processing.
-- 💞️ I’m looking to collaborate on any interesting ASR tasks, translation tasks, or sentiment tasks.
+# Home Page
+Hello I am Riah Coulter and I am an NLP/Human Language Technology Specialist. I work on a variety of projects and am interested in speech technology, procedural parsing/understanding, NLP tasks, AR/VR best practices, LLMs, UI/UX/HCI design, and document understanding.
+
 - 📫 How to reach me: riahcoulter@email.arizona.edu
 
 <!---
